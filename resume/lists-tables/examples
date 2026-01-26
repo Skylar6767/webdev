@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Current Favorite Video Games</title>
+</head>
+
+<body>
+    <!-- Unordered List Example: -->
+    <ul>
+        <li>List item one</li>
+        <li>List item two</li>
+        <li>List item three</li>
+    </ul>
+    <!-- Ordered List Example: -->
+     <ol>
+        <li>List item one</li>
+        <li>List item two</li>
+        <li>List item three</li>
+     </ol>
+     <!-- Table Example: -->
+     <table>
+        <tr>
+            <th>Names</th>
+            <th>Instruments</th>
+            <th>Band</th>
+        </tr>
+        <tr>
+            <td>Johnny Marr</td>
+            <td>Guitar</td>
+            <td>The Smiths</td>
+        </tr>
+        <tr>
+            <td>Spencer Charnas</td>
+            <td>Vocalist</td>
+            <td>Ice Nine Kills</td>
+        </tr>
+        
+</body>
+</html>
