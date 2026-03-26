@@ -1,0 +1,88 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.wrapper {
+    background-color: rgb(1, 1, 31);
+    color: aquamarine;
+    padding: 25px;
+    margin: 30px;
+    text-align: center;
+    width: 60%
+    margin-left: 20%;
+}
+
+#heroimg {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: 2px solid black;
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#youtubebtn {
+    width: 25%;
+    height: 10%;
+    font-size: 30px;
+    background: aquamarine;
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-size: 35px;
+}
+#youtubebtn:hover {
+    background: linear-gradient(90deg, #011d1f, #02454a, #057078, #06919c, #08becc, #0ae2f2, #08becc, #06919c, #057078, #02454a, #011d1f);
+    color: #0a0338;
+    padding: 500px;
+    border-radius: 500px;
+}
+
+#tiktokbtn {
+    width: 25%;
+    height: 10%;
+    font-size: 30px;
+    background: aquamarine;
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-size: 35px;
+}
+#tiktokbtn:active {
+    padding: 500px;
+    border-radius: 500px;
+    color: #35ff0d;
+    background: linear-gradient(90deg, #eb0c65, #b307ad, #2a92bf, #b307ad,#eb0c65);
+}
+
+#amazonbtn {
+    width: 25%;
+    height: 10%;
+    font-size: 30px;
+    background: aquamarine;
+    padding: 10px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-size: 35px;
+}
+#amazonbtn:visited {
+    background-color: #000000;
+    color: #ffffff;
+}
