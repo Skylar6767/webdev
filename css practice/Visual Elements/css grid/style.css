@@ -1,0 +1,43 @@
+.wrapper {
+    text-align: center;
+    background-color: #32a852;
+    color: #9a4b9c;
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 3fr 1fr;
+}
+
+#sigma {
+    grid-column: 2/5;
+}
+
+#ligma {
+    grid-column: 3/3;
+}
+
+h1 {
+    grid-column: 2/5;
+}
+
+#heroimg {
+    width: 500px;
+    height: 500px;
+    grid-column: 3/4;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th {
+    background-color: #8f0478;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
